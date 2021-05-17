@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  // fun to code  variable
+  int funtocode = 17052021;
+  
+  // OK, but not so easy to understand what m actually is
+  //m is also a variable to store and tranform its usage
+  int m = 12052000;
+  
+  cout << funtocode << "\n";
+  cout << m;
+  return 0;
+}
