@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int m, e;
+  int sum;
+  cout << "Type a number: ";
+  cin >> u;
+  cout << "Type another number: ";
+  cin >> e;
+  sum = u + e;
+  cout << "Sum is: " << sum;
+  return 0;
+}
