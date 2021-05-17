@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+  /* understand the code for usage of compiler to do our life safe and secure*/
+  cout<<" Hey universe..! took me out and lets ride a bit.! :) \n";
+  cout<<" future generation be ready to face the beatifullness of these universe";
+  return 0;
+}  
