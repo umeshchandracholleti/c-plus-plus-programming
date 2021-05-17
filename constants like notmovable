@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  const int funtocode = 2021;
+  const float PI = 512.2000;
+  cout << funtocode << "\n";
+  cout << PI;
+  return 0;
+}
